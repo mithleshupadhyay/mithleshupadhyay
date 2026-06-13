@@ -21,6 +21,5 @@ Some things I like:
 - Fast local setup
 - Good documentation
 - Root-cause debugging
-
-Personal website: https://mithleshupadhyay.github.io
 ```
+Personal website: https://mithleshupadhyay.github.io
