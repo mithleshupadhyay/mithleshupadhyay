@@ -1,25 +1,27 @@
-```md
-### Mithlesh Upadhyay
+# Mithlesh Upadhyay
 
-Senior AI Backend Engineer working on LLMs, RAG, agentic workflows, and distributed backend systems.
+**Software Engineer II | AI Backend Engineer | Distributed Systems**
 
-Some things I work on:
+I build reliable backend systems for AI products, RAG workflows, LLM integrations, and distributed product platforms.
 
-- Python backend services
-- FastAPI and AsyncIO
-- LLM integrations
-- RAG and retrieval systems
-- AI red teaming workflows
-- Kafka, Redis, PostgreSQL, Docker
-- Testing, debugging, and developer tooling
+My work is focused on:
 
-Some things I like:
+* Python backend services with FastAPI, AsyncIO, SQLAlchemy, and Alembic
+* REST APIs, microservices, multi-tenant systems, and production-grade backend design
+* LLM integrations, multi-provider AI workflows, SDK/CLI tooling, and automation scripts
+* RAG and retrieval systems using embeddings, FAISS, pgvector, OpenSearch, and BM25 search
+* AI security workflows, red teaming, assessment flows, triage services, and RAG-enabled systems
+* Kafka, Redis, Celery, PostgreSQL, MongoDB, object storage, Docker, and Docker Compose
+* Testing and reliability using Pytest, unit tests, integration tests, and functional tests
+* CI/CD, GitHub Actions, Git, documentation, debugging, and developer workflow improvements
+* Auth, multi-tenancy, ACL, RBAC, JWT/OIDC, and access-controlled backend systems
+* Working knowledge of Rust, Go, HTML, CSS, JavaScript, TypeScript, Node.js, React.js, Express.js, and Next.js
 
-- Simple systems
-- Clear APIs
-- Useful tests
-- Fast local setup
-- Good documentation
-- Root-cause debugging
-```
-Personal website: https://mithleshupadhyay.github.io
+## Selected Work
+
+* [Agentic RAG](https://github.com/mithleshupadhyay/agentic_rag) — production-style multi-tenant RAG backend with ACL-aware retrieval, BM25 fallback, ingestion pipelines, and evaluation workflows.
+* [Skyclad](https://github.com/mithleshupadhyay/skyclad) — AI multi-provider system built without a LiteLLM-style framework to reduce cost and keep provider control.
+* [AI Backend](https://github.com/mithleshupadhyay/ai-backend) — production-style AI backend APIs with LLM integrations, async services, testing, and Dockerized setup.
+* [ChadWallet Web](https://github.com/mithleshupadhyay/chadwallet-web) — Solana API-powered landing and trading page [See Demo](https://chadwallet-web-lake.vercel.app/)
+
+### View my Portfolio: https://mithleshupadhyay.github.io
