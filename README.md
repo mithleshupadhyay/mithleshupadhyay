@@ -1,27 +1,154 @@
-# Mithlesh Upadhyay
+<div align="center">
 
-**Software Engineer II | AI Backend Engineer | Distributed Systems**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=115&section=header&color=0D1117&text=Mithlesh%20Upadhyay&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20II%20%7C%20AI%20Backend%20Engineering%20%7C%20Distributed%20Systems&descSize=18&descAlignY=72&descAlign=50&descColor=FFFFFF" width="100%" alt="Mithlesh Upadhyay - Software Engineer II | AI Backend Engineering | Distributed Systems" />
 
-I build reliable backend systems for AI products, RAG workflows, LLM integrations, and distributed product platforms.
+</div>
 
-My work is focused on:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=EB1F6A&center=true&vCenter=true&width=850&lines=Building+production-ready+AI+backend+systems;FastAPI+%7C+Distributed+Systems+%7C+APIs+%7C+Automation;Agentic+RAG+%7C+LLM+Workflows+%7C+Retrieval+%7C+AI+Security;Shipping+reliable+multi-tenant+products+at+scale" alt="Typing SVG" />
+</div>
 
-* Python backend services with FastAPI, AsyncIO, SQLAlchemy, and Alembic
-* REST APIs, microservices, multi-tenant systems, and production-grade backend design
-* LLM integrations, multi-provider AI workflows, SDK/CLI tooling, and automation scripts
-* RAG and retrieval systems using embeddings, FAISS, pgvector, OpenSearch, and BM25 search
-* AI security workflows, red teaming, assessment flows, triage services, and RAG-enabled systems
-* Kafka, Redis, Celery, PostgreSQL, MongoDB, object storage, Docker, and Docker Compose
-* Testing and reliability using Pytest, unit tests, integration tests, and functional tests
-* CI/CD, GitHub Actions, Git, documentation, debugging, and developer workflow improvements
-* Auth, multi-tenancy, ACL, RBAC, JWT/OIDC, and access-controlled backend systems
-* Working knowledge of Rust, Go, HTML, CSS, JavaScript, TypeScript, Node.js, React.js, Express.js, and Next.js
+<br/>
 
-## Selected Work
+<div align="center">
+🌐 <a href="https://mithleshupadhyay.github.io/" target="_blank">Portfolio</a> &nbsp;·&nbsp;
+📬 <a href="mailto:mithleshupadhyay515@gmail.com" target="_blank">mithleshupadhyay515@gmail.com</a> &nbsp;·&nbsp;
+💼 <a href="https://www.linkedin.com/in/mithlesh-upadhyay/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
+💻 <a href="https://github.com/mithleshupadhyay" target="_blank">GitHub</a>
+</div>
 
-* [Agentic RAG](https://github.com/mithleshupadhyay/agentic_rag) — production-style multi-tenant RAG backend with ACL-aware retrieval, BM25 fallback, ingestion pipelines, and evaluation workflows.
-* [Skyclad](https://github.com/mithleshupadhyay/skyclad) — AI multi-provider system built without a LiteLLM-style framework to reduce cost and keep provider control.
-* [AI Backend](https://github.com/mithleshupadhyay/ai-backend) — production-style AI backend APIs with LLM integrations, async services, testing, and Dockerized setup.
-* [ChadWallet Web](https://github.com/mithleshupadhyay/chadwallet-web) — Solana API-powered landing and trading page [See Demo](https://chadwallet-web-lake.vercel.app/)
+---
 
-### View my Portfolio: https://mithleshupadhyay.github.io
+## ⚡ About Me
+
+```typescript
+const mithlesh = {
+  role: "Software Engineer II → AI Backend Engineering & Distributed Systems",
+
+  building: [
+    "Production-grade AI backend platforms",
+    "Multi-tenant RAG and retrieval systems",
+    "LLM integrations and agentic workflows",
+    "Distributed APIs and asynchronous services",
+    "Secure and scalable product infrastructure",
+  ],
+
+  stack: {
+    aiAndLLM: [
+      "LangChain",
+      "LangGraph",
+      "OpenAI",
+      "Claude",
+      "Gemini",
+      "Hugging Face",
+      "Ollama",
+      "FAISS",
+      "pgvector",
+      "OpenSearch",
+      "BM25",
+    ],
+
+    backend: [
+      "Python",
+      "FastAPI",
+      "AsyncIO",
+      "SQLAlchemy",
+      "Alembic",
+      "Pydantic",
+      "REST APIs",
+      "Microservices",
+    ],
+
+    distributedSystems: [
+      "Kafka",
+      "Redis",
+      "Celery",
+      "PostgreSQL",
+      "MongoDB",
+      "MinIO",
+      "Object Storage",
+    ],
+
+    securityAndAuth: [
+      "Multi-tenancy",
+      "ACL",
+      "RBAC",
+      "JWT",
+      "OIDC",
+      "Keycloak",
+      "AI Red Teaming",
+    ],
+
+    cloudAndDevOps: [
+      "AWS",
+      "Docker",
+      "Docker Compose",
+      "GitHub Actions",
+      "Linux",
+      "CI/CD",
+      "Prometheus",
+      "Grafana",
+    ],
+
+    testing: [
+      "Pytest",
+      "Unit Testing",
+      "Integration Testing",
+      "Functional Testing",
+    ],
+
+    frontendAndOther: [
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "React.js",
+      "Next.js",
+      "Rust",
+      "Go",
+    ],
+  },
+
+  featuredProjects: {
+    agenticRAG: "https://github.com/mithleshupadhyay/agentic_rag",
+    skyclad: "https://github.com/mithleshupadhyay/skyclad",
+    aiBackend: "https://github.com/mithleshupadhyay/ai-backend",
+    chadWalletWeb: "https://github.com/mithleshupadhyay/chadwallet-web",
+  },
+
+  askMeAbout: [
+    "AI backend engineering",
+    "Agentic RAG systems",
+    "LLM integrations",
+    "Hybrid retrieval",
+    "Distributed systems",
+    "Multi-tenant architecture",
+    "API development",
+    "Asynchronous workflows",
+    "AI security",
+    "Production reliability",
+  ],
+
+  contact: "mithleshupadhyay515@gmail.com",
+};
+```
+
+---
+
+## 🚀 Focus Areas
+
+| Area                         | What I build                                                                                    |
+| ---------------------------- | ----------------------------------------------------------------------------------------------- |
+| **AI Backend Engineering**   | Production-grade FastAPI services, LLM integrations, agentic workflows, AI-powered APIs         |
+| **RAG & Retrieval**          | Multi-tenant RAG, embeddings, pgvector, FAISS, OpenSearch, BM25 and hybrid retrieval            |
+| **Distributed Systems**      | Kafka-based workflows, Redis, Celery workers, event-driven services and asynchronous processing |
+| **Security & Multi-Tenancy** | Tenant isolation, ACL, RBAC, JWT/OIDC authentication and access-controlled retrieval            |
+| **Cloud & Reliability**      | Dockerized systems, CI/CD, automated testing, observability and production debugging            |
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+*Building reliable AI systems. One commit at a time.*
+
+</div>
