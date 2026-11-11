@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=115&section=header&color=0D1117&text=Mithlesh%20Upadhyay&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20Backend%2C%20Full-Stack%20%26%20Agentic%20AI&descSize=18&descAlignY=72&descAlign=50&descColor=FFFFFF" width="100%" alt="Mithlesh Upadhyay - Senior Software Engineer | Backend, Full-Stack & Agentic AI" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=115&section=header&color=0D1117&text=Mithlesh%20Upadhyay&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20Backend%2C%20Full-Stack%2C%20Agentic%20AI&descSize=18&descAlignY=72&descAlign=50&descColor=FFFFFF" width="100%" alt="Mithlesh Upadhyay - Senior Software Engineer | Backend, Full-Stack, Agentic AI" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=EB1F6A&center=true&vCenter=true&width=850&lines=Took+myRado+from+first+commit+to+production+in+6+weeks;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Kafka+%7C+Redis+%7C+Docker;LangGraph+agents+%7C+Hybrid+RAG+%7C+Evals+%7C+LLM+security;React+%7C+TypeScript+%7C+2%2C400%2B+automated+tests+on+one+product" alt="Took myRado from first commit to production in 6 weeks. Python, FastAPI, PostgreSQL, Kafka, Redis, Docker. LangGraph agents, hybrid RAG, evals, LLM security. React, TypeScript." />
 
